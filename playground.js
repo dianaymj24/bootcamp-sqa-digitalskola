@@ -1,5 +1,2 @@
-let nama = "Dian";
-let umur = 28;
-
+let nama = "Dian"
 console.log(nama);
-console.log(umur);
